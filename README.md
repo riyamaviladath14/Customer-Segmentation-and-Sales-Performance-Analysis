@@ -10,9 +10,13 @@ To provide actionable insights for targeted marketing and sales strategies.
 
 ## Key Insights
 **Customer Segmentation**: Identified 5 distinct customer groups using RFM analysis.
+
 **Revenue Concentration**: Top 20% customers generate the of total revenue.
+
 **Sales Trends**: The seasonal patterns of salels trend is obsereved.
+
 **Reginal revenue**: Top country contibuting to of total sales is identified.
+
 **Product Performance**: Top 10 selling products were identified.
 
 ## Sales Performance
